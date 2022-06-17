@@ -1,0 +1,45 @@
+screen màn hình
+agency dai ly
+airport san bay
+alcohol ruou
+apple qua tao
+art nghe thuat
+camera may chup hinh
+child tre em
+client khach hang
+coffee ca phe
+dinner bua toi
+driver nguoi lai xe
+energy nang luong
+error loi
+family gia dinh
+food thuc an
+health suc khoe
+history lich su
+lake ho nuoc
+library thu vien
+map ban do
+meat thit
+method phuong phap
+mission nhiem vu
+movie phim
+music am nhac
+orange trai cam
+people nguoi
+physics vat ly
+product san pham
+river con song
+science khoa hoc
+skill ky nang
+society xa hoi
+song bai hat
+speaker cai loa
+story cau chuyen
+system he thong
+time thoi gian
+week tuan
+winner nguoi chien thang
+work cong viec
+world the gioi
+writer nha van
+year nam

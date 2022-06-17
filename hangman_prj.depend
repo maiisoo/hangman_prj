@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1651765428 source:d:\hangman_prj\code\draw.cpp
+	<iostream>
+	<chrono>
+	<thread>
+
+1653585426 source:d:\hangman_prj\draw.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	<iomanip>
+	<set>
+	<Windows.h>
+	"getHints.h"
+
+1652973867 source:d:\hangman_prj\chooseword.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<ctime>
+
+1653594292 source:d:\hangman_prj\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<algorithm>
+	<Windows.h>
+	<iomanip>
+	<set>
+	<conio.h>
+	<thread>
+	<chrono>
+	"computer_mode.h"
+	"util.h"
+	"draw.h"
+	"chooseWord.h"
+	"getHints.h"
+	"scoreUpdate.h"
+
+1653029300 d:\hangman_prj\draw.h
+	<iostream>
+	<set>
+
+1652282108 d:\hangman_prj\chooseword.h
+	<iostream>
+
+1653583666 source:d:\hangman_prj\scoreupdate.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	<draw.h>
+	<iomanip>
+
+1653593448 d:\hangman_prj\computer_mode.h
+	<string>
+	<set>
+
+1653585378 d:\hangman_prj\util.h
+	<vector>
+	<string>
+
+1653585380 source:d:\hangman_prj\util.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<stdexcept>
+
+1653594282 source:d:\hangman_prj\computer_mode.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<map>
+	<set>
+	"util.h"
+
+1653030068 source:d:\hangman_prj\gethints.cpp
+	<iostream>
+	<set>
+
+1652980853 d:\hangman_prj\gethints.h
+	<iostream>
+
+1653579055 d:\hangman_prj\scoreupdate.h
+	<iostream>
+
+1652989060 d:\hangman_prj\showmenu.h
+
+1653579055 d:\hangman_prj\score\scoreupdate.h
+	<iostream>
+
